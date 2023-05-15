@@ -13,7 +13,7 @@
 
 ## Overview
 
-This project is a solution to the[QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It aims to create a visually appealing and functional QR code component. 
+This project is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It aims to create a visually appealing and functional QR code component. 
 
 ### Screenshot
 
