@@ -47,9 +47,9 @@ This was the first project that I have built using HTML and CSS. During the deve
 
 - Implemented the basic structure of an HTML document.
 - Utilized CSS to style various elements of the webpage, including colors, fonts, dimensions, and alignments.
-- Imported external CSS stylesheets using the <link> tag.
+- Imported external CSS stylesheets using the git alink tag.
 - Incorporated Google Fonts into the project by importing the desired font using the provided URL.
-- Used CSS selectors to target specific elements for styling, such as <img>, <h1>, and <p>.
+- Used CSS selectors to target specific elements for styling, such as img, h1, and p.
 
 ### Continued development
 
