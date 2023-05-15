@@ -32,7 +32,7 @@ This project is a solution to the [QR code component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/Tornike-Peradze/QR-Code-Component)
-- Live Site URL: [Live site URL here](http://127.0.0.1:5500/index.html)
+- Live Site URL: [Live site URL here](https://tornike-peradze.github.io/QR-Code-Component/)
 
 ## My process
 
